@@ -1,0 +1,17 @@
+{
+  "short_name": "BlockSafe",
+  "name": "BlockSafe",
+  "description": "A crypto wallet for using the blockchain",
+  "manifest_version": 3,
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open Wallet"
+},
+  "permissions": [],
+  "icons": {
+    "16": "walletlogo.png",
+    "48": "walletlogo.png",
+    "128": "walletlogo.png"
+}
+}
